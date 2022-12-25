@@ -1,3 +1,3 @@
 # ML-project
-required python packages: OpenCV, tensorflow, numpy, imutils
-> install the packages using pip command.
+python packages to be installed: OpenCV, tensorflow, numpy, imutils using pip command.
+>The Machine learning model Identifies whether the person before the camera wears mask or not.
